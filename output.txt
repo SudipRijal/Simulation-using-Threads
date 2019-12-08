@@ -1,0 +1,86 @@
+[1] Customer 1: browsing store
+[5] Customer 3: browsing store
+[6] Customer 2: browsing store
+[6] Customer 4: browsing store
+[7] Customer 5: browsing store
+[7] Customer 6: browsing store
+[9] Customer 7: browsing store
+[10] Customer 8: browsing store
+[10] Customer 10: browsing store
+[11] Customer 9: browsing store
+[11] Customer 11: browsing store
+[11] Customer 12: browsing store
+[6145] Customer 9: deciding whether to pick product or not
+[6349] Customer 4: deciding whether to pick product or not
+[6382] Customer 12: deciding whether to pick product or not
+[6514] Customer 1: deciding whether to pick product or not
+[6723] Customer 3: deciding whether to pick product or not
+[7508] Customer 5: deciding whether to pick product or not
+[7585] Customer 2: deciding whether to pick product or not
+[8121] Customer 10: deciding whether to pick product or not
+[8248] Customer 8: deciding whether to pick product or not
+[8328] Customer 7: deciding whether to pick product or not
+[8411] Customer 6: deciding whether to pick product or not
+[8554] Customer 11: deciding whether to pick product or not
+[12146] Customer 9: still deciding whether to pick product or not
+[12349] Customer 4: still deciding whether to pick product or not
+[12382] Customer 12: still deciding whether to pick product or not
+[12514] Customer 1: still deciding whether to pick product or not
+[12723] Customer 3: still deciding whether to pick product or not
+[13510] Customer 5: still deciding whether to pick product or not
+[13591] Customer 2: still deciding whether to pick product or not
+[14121] Customer 10: still deciding whether to pick product or not
+[14248] Customer 8: still deciding whether to pick product or not
+[14328] Customer 7: still deciding whether to pick product or not
+[14411] Customer 6: still deciding whether to pick product or not
+[14554] Customer 11: still deciding whether to pick product or not
+[21142] Clerk 3: Customer 9 Waiting to be serviced by Clerk
+[21351] Clerk 1: Customer 4 Waiting to be serviced by Clerk
+[21380] Clerk 2: Customer 12 Waiting to be serviced by Clerk
+[25498] Clerk 2: Customer 1 Waiting to be serviced by Clerk
+[25498] Clerk 3: Customer 3 Waiting to be serviced by Clerk
+[25502] Cash-Cashier: Customer 12 buying product
+[25502] Credit-Card Cashier: Customer 9 buying product
+[26309] Customer 9: my shopping id is [0dcc52dc-1833-4900-adff-b7167a4005f4] I have purchased item and i am going to cafeteria
+[28011] Customer 12: my shopping id is [56730966-9a50-410b-b119-15c2a5e590d1] I have purchased item and i am going to cafeteria
+[28639] Clerk 1: Customer 5 Waiting to be serviced by Clerk
+[28672] Clerk 2: Customer 8 Waiting to be serviced by Clerk
+[29305] Credit-Card Cashier: Customer 4 buying product
+[29370] Customer 4: my shopping id is [f7ecbd98-2c9d-49d7-a3a9-6a70116e2fb0] I have purchased item and i am going to cafeteria
+[30224] Clerk 3: Customer 11 Waiting to be serviced by Clerk
+[31007] Cash-Cashier: Customer 1 buying product
+[31157] Customer 1: my shopping id is [dfcce19e-5574-4ade-b5ec-b52161dcf731] I have purchased item and i am going to cafeteria
+[32367] Credit-Card Cashier: Customer 3 buying product
+[33351] Clerk 1: Customer 2 Waiting to be serviced by Clerk
+[34585] Customer 3: my shopping id is [94cbd5ff-264c-460f-b122-8920bffeae26] I have purchased item and i am going to cafeteria
+[35908] Clerk 2: Customer 6 Waiting to be serviced by Clerk
+[35911] Cash-Cashier: Customer 8 buying product
+[36867] Customer 8: my shopping id is [864babbc-1748-4631-b3b2-7cc60e14448c] I have purchased item and i am going to cafeteria
+[37581] Credit-Card Cashier: Customer 5 buying product
+[39881] Cash-Cashier: Customer 11 buying product
+[40100] Customer 5: my shopping id is [e3a87937-1996-4d3a-a5a1-836c6853396b] I have purchased item and i am going to cafeteria
+[41709] Clerk 1: Customer 10 Waiting to be serviced by Clerk
+[42355] Customer 11: my shopping id is [489a067b-6c06-4f87-8be5-dcb712df299a] I have purchased item and i am going to cafeteria
+[43097] Credit-Card Cashier: Customer 2 buying product
+[43646] Customer 2: my shopping id is [c7741112-fbf6-4a0a-ae16-c048ba2a9ca3] I have purchased item and i am going to cafeteria
+[45351] Cash-Cashier: Customer 6 buying product
+[46476] Customer 6: my shopping id is [5fa4a3ac-2861-48db-b461-1cbd35dd7dc4] I have purchased item and i am going to cafeteria
+[47780] Clerk 1: Customer 7 Waiting to be serviced by Clerk
+[49472] Cash-Cashier: Customer 10 buying product
+[51413] Customer 10: my shopping id is [32530b6c-fd71-4b6f-91fe-677ca7f80da7] I have purchased item and i am going to cafeteria
+[55831] Clerk 1:  waiting for store to close
+[55834] Cash-Cashier: Customer 7 buying product
+[58545] Customer 7: my shopping id is [3ebb3adc-106a-443b-b9a0-7a466d7c00ac] I have purchased item and i am going to cafeteria
+[61542] Cash-Cashier: Wait for shop closing
+[88582] Customer 1: I am leaving
+[88583] Customer 2: I joined customer 1
+[88584] Customer 3: I joined customer 2
+[88584] Customer 4: I joined customer 3
+[88584] Customer 5: I joined customer 4
+[88585] Customer 6: I joined customer 5
+[88585] Customer 7: I joined customer 6
+[88585] Customer 8: I joined customer 7
+[88585] Customer 9: I joined customer 8
+[88585] Customer 10: I joined customer 9
+[88586] Customer 11: I joined customer 10
+[88586] Customer 12: I joined customer 11
